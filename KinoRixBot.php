@@ -4,12 +4,12 @@ ini_set('display_errors', true);
 
 #================================================
 
-define('API_KEY', '7528308855:AAGdSzcQm08M8QC9v9WQh9VAKz9C8J84vBE');
+define('API_KEY', '8488049290:AAE3PDgW9b8616-J6y8mOXwaBoP3LjB1io0');
 
-$idbot = 7528308855;
-$umidjon = 6562058089;
+$idbot = 8488049290;
+$umidjon = 6157195937;
 $owners = array($umidjon);
-$user = "SARVAR_6364";
+$user = "komron_xudoyberganov";
 $bot=bot(getMe)->result->username;
 
 define('DB_HOST', 'localhost');
